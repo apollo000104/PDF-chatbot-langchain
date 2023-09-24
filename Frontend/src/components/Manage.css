@@ -1,0 +1,37 @@
+.manage-wrapper{
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+    /* padding: 2%; */
+}
+
+img {
+    display: block;
+    margin-top: 10%;
+    margin-left: 35%;
+    width: 30%;
+    height: auto;
+    position: center;
+}
+
+input {
+    display: block;
+}
+
+.save-button {
+    margin: 2%;
+    padding: 10px 15px;
+    font-size: larger;
+    border-radius: 48%;
+    font-weight: 800;
+    background-color: aquamarine;
+    cursor: pointer;
+}
+
+.manage_price {
+    width: 10%;
+}

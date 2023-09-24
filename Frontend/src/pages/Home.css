@@ -1,0 +1,20 @@
+.shop-link{
+    padding: 5%;
+    background-image: url(../components/20095740.jpg);
+    display: block;
+    text-decoration: auto;
+    font-size: xxx-large;
+    text-align: center;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+    border: cadetblue;
+    font-weight: bold
+}
+.chatroom-link{
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
+    border: solid black;
+    width: 20%;
+    margin: auto;
+}

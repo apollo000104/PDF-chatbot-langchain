@@ -1,0 +1,22 @@
+.headbar-wrapper {
+    width:100%;
+    display: flex;
+    background-color: #226d05;
+    color: white;
+    padding: 10px 20px;
+    justify-content: space-around;
+}
+
+.btn{
+    text-decoration: none;
+    font-weight: 700;
+    float: right;
+    font-size: 25px;
+    padding: 15px;
+    margin: 5px;
+    background: linear-gradient(#39e60e, hsl(111, 26%, 95%));
+    border-color: #226d05;
+    outline-color: azure;
+    box-shadow: 1px 1px 1px 1px #778ca350;
+    border-radius: 25px;
+}

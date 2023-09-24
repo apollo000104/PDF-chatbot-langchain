@@ -1,0 +1,20 @@
+
+.mainsection-wrapper {
+    width: 30%;
+    height: 55vh;
+}
+.mainsection-wrapper p { font-family: verdana;
+    font-size: 25px;
+    text-align: center;
+    margin: 2%;
+  }
+img{
+    width: 30%;
+    height: auto;
+    position: center;
+}
+/* .shop_item{
+    display: grid;
+    align-items: center;
+    justify-items: stretch;
+} */
