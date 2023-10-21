@@ -7,7 +7,7 @@ from langchain.chains import RetrievalQA
 from langchain.llms import OpenAI
 
 
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = ""
 
 # load the document as before
 loader = PyPDFLoader('./files/Amir_Resume.pdf')
